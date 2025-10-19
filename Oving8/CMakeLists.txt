@@ -3,5 +3,9 @@ project(Oving8)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Oving8
+add_executable(oppgave1
         oppgave1.cpp)
+
+add_executable(oppgave2
+        oppgave2.hpp
+        oppgave2.cpp)

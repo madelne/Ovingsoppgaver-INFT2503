@@ -8,18 +8,8 @@ class Template {
         }
         return false;
     }
-
-    bool equal(double a, double b) {
-        if (abs(a - b) < 0.00001) {
-            return true;
-        }
-        return false;
-    }
-
-
 };
 
 int main() {
-    // Din kode her
     return 0;
 }

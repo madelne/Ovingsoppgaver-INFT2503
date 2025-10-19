@@ -1,7 +1,11 @@
-nt main() {
+#include "oppgave2.hpp"
+#include <iostream>
+using namespace std;
+
+int main() {
     Pair<double, int> p1(3.5, 14);
     Pair<double, int> p2(2.1, 7);
-    cout << "p1: " << p1.first << ", " << p1.second << endl;
+    std::cout << "p1: " << p1.first << ", " << p1.second << endl;
     cout << "p2: " << p2.first << ", " << p2.second << endl;
 
     if (p1 > p2)

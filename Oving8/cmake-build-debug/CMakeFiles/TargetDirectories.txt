@@ -1,4 +1,0 @@
-/Users/madde/Documents/INFT2503-Ovinger/Ovingsoppgaver-INFT2503/Oving8/cmake-build-debug/CMakeFiles/oppgave1.dir
-/Users/madde/Documents/INFT2503-Ovinger/Ovingsoppgaver-INFT2503/Oving8/cmake-build-debug/CMakeFiles/oppgave2.dir
-/Users/madde/Documents/INFT2503-Ovinger/Ovingsoppgaver-INFT2503/Oving8/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/madde/Documents/INFT2503-Ovinger/Ovingsoppgaver-INFT2503/Oving8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
